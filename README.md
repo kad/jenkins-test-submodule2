@@ -1,2 +1,2 @@
 # jenkins-test-submodule2
-Submodule2, rev2
+Submodule2, rev3
